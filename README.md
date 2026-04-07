@@ -130,4 +130,4 @@ python atv.py
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido para fins acadêmicos.
+Projeto desenvolvido para fins acadêmicos / Lucas Barros
